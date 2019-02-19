@@ -1,0 +1,8 @@
+@startuml
+!includeurl https://raw.githubusercontent.com/RicardoNiepel/C4-PlantUML/release/1-0/C4_Context.puml
+
+System(s1, "Test System", "description")
+System_Boundary(b1, "Boundary"){
+
+}
+@enduml

@@ -1,0 +1,8 @@
+@startuml
+!include C4_Context.puml
+
+System(s1, "Test System", "description")
+System_Boundary(b1, "Boundary"){
+
+}
+@enduml
